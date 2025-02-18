@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Smartphone X1",
+    "price": "699.99",
+    "description": "Latest smartphone with 5G connectivity and 128GB storage.",
+    "rating": "4.7",
+    "image": [
+      { "image": "http://example.com/images/smartphone1.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "TechZone",
+    "stock": "45",
+    "numofreviews": "320",
+    "createdAT": "2025-02-01T10:00:00Z"
+  },
+  {
+    "name": "Gaming Laptop Pro",
+    "price": "1299.99",
+    "description": "High-performance gaming laptop with RTX 3070 and 16GB RAM.",
+    "rating": "4.8",
+    "image": [
+      { "image": "http://example.com/images/laptop1.jpg" }
+    ],
+    "category": "Computers",
+    "seller": "GameTech",
+    "stock": "20",
+    "numofreviews": "210",
+    "createdAT": "2025-01-28T14:30:00Z"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "price": "89.99",
+    "description": "Noise-canceling wireless earbuds with 24-hour battery life.",
+    "rating": "4.6",
+    "image": [
+      { "image": "http://example.com/images/earbuds1.jpg" }
+    ],
+    "category": "Audio",
+    "seller": "SoundWorld",
+    "stock": "75",
+    "numofreviews": "500",
+    "createdAT": "2025-02-05T09:15:00Z"
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": "79.99",
+    "description": "RGB backlit mechanical keyboard with blue switches.",
+    "rating": "4.5",
+    "image": [
+      { "image": "http://example.com/images/keyboard1.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "KeyTech",
+    "stock": "60",
+    "numofreviews": "180",
+    "createdAT": "2025-01-25T18:20:00Z"
+  },
+  {
+    "name": "4K Smart TV",
+    "price": "899.99",
+    "description": "Ultra HD 55-inch smart TV with Dolby Vision support.",
+    "rating": "4.7",
+    "image": [
+      { "image": "http://example.com/images/tv1.jpg" }
+    ],
+    "category": "Home Entertainment",
+    "seller": "VisionTech",
+    "stock": "25",
+    "numofreviews": "95",
+    "createdAT": "2025-01-15T12:45:00Z"
+  },
+  {
+    "name": "Smart Home Speaker",
+    "price": "129.99",
+    "description": "AI-powered smart speaker with voice assistant integration.",
+    "rating": "4.6",
+    "image": [
+      { "image": "http://example.com/images/speaker1.jpg" }
+    ],
+    "category": "Smart Home",
+    "seller": "HomeGenius",
+    "stock": "80",
+    "numofreviews": "300",
+    "createdAT": "2025-02-03T16:10:00Z"
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": "59.99",
+    "description": "Waterproof fitness tracker with heart rate monitoring.",
+    "rating": "4.4",
+    "image": [
+      { "image": "http://example.com/images/fitnesstracker1.jpg" }
+    ],
+    "category": "Wearables",
+    "seller": "FitLife",
+    "stock": "90",
+    "numofreviews": "250",
+    "createdAT": "2025-01-20T08:30:00Z"
+  }
+]
